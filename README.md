@@ -1,0 +1,2 @@
+This project focuses on predicting car prices. Machine learning models used are LinearRegression,XgBoost and SVM
+The notebook begins by loading and exploring the dataset, which includes features like car name, company, year, price, kilometers driven, and fuel type. It then performs data cleaning and preprocessing steps, such as handling missing values, converting data types, and removing outliers. Finally, the notebook visualizes the cleaned data and prepares it for further analysis or machine learning modeling to predict car prices accurately
